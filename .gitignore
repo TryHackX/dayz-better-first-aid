@@ -4,3 +4,6 @@
 *.bak
 Thumbs.db
 desktop.ini
+
+# workshop draft images - kept on disk, not in the repository
+soucre/IMGs/*.webp
