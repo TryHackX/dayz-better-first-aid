@@ -22,7 +22,9 @@ If the mod is useful for you or your server, you can support further development
   blood test kit, IV start kit, blood and saline bags and 2 gas mask filters (Big and Small 21 slots, Mini 13).
   Slot names use the vanilla translations, so they appear in the language of the game.
 - Every empty slot shows an icon of the item that belongs in it (own icon set in the vanilla style).
-- Loot balance: better kits are rarer and spawn in higher tiers (Big 1 / tier 3-4, Small 2 / tier 2-3, Mini 3 / tier 1-2).
+- Loot balance: better kits are rarer and spawn in higher tiers. Big: 1 per colour, Medic + Military, tier 3-4, also counted
+  in player inventories and stashes (max 9 on the server). Small: 1 per colour, Medic + Police + Military, tier 2-4.
+  Mini: 3 per colour, everywhere (Medic, Police, Town, Village, Military, tier 1-4).
 
 ## Installation
 

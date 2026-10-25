@@ -3,151 +3,150 @@
     <type name="Better_First_Aid_Big_Woodland">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Big_Yeger">
+    <type name="Better_First_Aid_Big_Yeger">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="Better_First_Aid_Big_Atacs">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Big_DPM">
+    <type name="Better_First_Aid_Big_DPM">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
     <type name="Better_First_Aid_Big_Flt">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Big_Partizan">
+    <type name="Better_First_Aid_Big_Partizan">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Big_Splinter">
+    <type name="Better_First_Aid_Big_Splinter">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Big_Splinterdark">
+    <type name="Better_First_Aid_Big_Splinterdark">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Big_Tropic">
+    <type name="Better_First_Aid_Big_Tropic">
         <nominal>1</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>80</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-
     <!-- Group: Small -->
     <type name="Better_First_Aid_Small_Woodland">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -158,12 +157,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Small_Yeger">
-        <nominal>2</nominal>
+    <type name="Better_First_Aid_Small_Yeger">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -174,12 +175,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="Better_First_Aid_Small_Atacs">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -190,12 +193,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Small_DPM">
-        <nominal>2</nominal>
+    <type name="Better_First_Aid_Small_DPM">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -206,12 +211,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="Better_First_Aid_Small_Flt">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -222,12 +229,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Small_Partizan">
-        <nominal>2</nominal>
+    <type name="Better_First_Aid_Small_Partizan">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -238,12 +247,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Small_Splinter">
-        <nominal>2</nominal>
+    <type name="Better_First_Aid_Small_Splinter">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -254,12 +265,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Small_Splinterdark">
-        <nominal>2</nominal>
+    <type name="Better_First_Aid_Small_Splinterdark">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -270,12 +283,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Small_Tropic">
-        <nominal>2</nominal>
+    <type name="Better_First_Aid_Small_Tropic">
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -286,11 +301,12 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-    
     <!-- Group: Mini -->
     <type name="Better_First_Aid_Mini_Woodland">
         <nominal>3</nominal>
@@ -304,11 +320,16 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Mini_Yeger">
+    <type name="Better_First_Aid_Mini_Yeger">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -320,9 +341,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="Better_First_Aid_Mini_Atacs">
         <nominal>3</nominal>
@@ -336,11 +362,16 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Mini_DPM">
+    <type name="Better_First_Aid_Mini_DPM">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -352,9 +383,14 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="Better_First_Aid_Mini_Flt">
         <nominal>3</nominal>
@@ -368,11 +404,16 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Mini_Partizan">
+    <type name="Better_First_Aid_Mini_Partizan">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -384,11 +425,16 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Mini_Splinter">
+    <type name="Better_First_Aid_Mini_Splinter">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -400,11 +446,16 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Mini_Splinterdark">
+    <type name="Better_First_Aid_Mini_Splinterdark">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -416,11 +467,16 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
-	<type name="Better_First_Aid_Mini_Tropic">
+    <type name="Better_First_Aid_Mini_Tropic">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -432,8 +488,13 @@
         <category name="containers"/>
         <tag name="shelves"/>
         <usage name="Medic"/>
-		<usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Military"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
 </types>

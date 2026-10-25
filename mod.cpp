@@ -1,0 +1,11 @@
+name = "Better First Aid";
+picture = "BetterFirstAid/gui/logo/bfa_logo.paa";
+logo = "BetterFirstAid/gui/logo/bfa_logo.paa";
+logoSmall = "BetterFirstAid/gui/logo/bfa_logo.paa";
+logoOver = "BetterFirstAid/gui/logo/bfa_logo_over.paa";
+tooltip = "Better First Aid";
+overview = "Medical pouches in three sizes (Big, Small, Mini) and nine camouflages, with a dedicated slot and icon for every common medical item.";
+action = "https://github.com/TryHackX/dayz-better-first-aid";
+author = "TryHackX";
+authorID = "76561199846115789";
+version = "1.1";
