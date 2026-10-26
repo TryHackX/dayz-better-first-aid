@@ -2,7 +2,7 @@
 
 Medical kits in three sizes (Big, Small and Mini) and nine camo colours, with dedicated slots for vanilla medical items - for DayZ 1.30 (Badlands).
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3325298354) · DayZ 1.30 (Badlands) · author: TryHackX
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3827406739) · DayZ 1.30 (Badlands) · author: TryHackX
 
 ## Support
 
